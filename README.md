@@ -22,7 +22,8 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Pandas](https://pandas.pydata.org/)
 * [Requests](https://pypi.org/project/requests/)
 * [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
+* [Selenium](https://www.selenium.dev/)
+* 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -42,4 +43,5 @@ This is an example of how to list things you need to use the software and how to
   pip install pandas
   pip install beautifulsoup4
   pip install requests
+  pip install selenium
   ```
